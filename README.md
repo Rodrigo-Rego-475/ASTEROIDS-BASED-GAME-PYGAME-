@@ -67,4 +67,4 @@ python main.py
 
 ## Authors
 
-Rodrigo Rego and a teammate
+Rodrigo Rego
